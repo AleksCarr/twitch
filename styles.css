@@ -40,3 +40,7 @@ h1 {
 .dropdown a:hover {background-color: #ddd;}
   
 .show {display: block;}
+
+header {
+    background-color: #3498DB;
+}
